@@ -1,0 +1,4 @@
+mediapipe~=0.10.11
+opencv-python~=4.10.0.84
+scikit-learn~=1.3.2
+tensorflow~=2.13.0
